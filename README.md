@@ -3,8 +3,12 @@
 ## Changes 
 
 ### BEFORE PUBLISHING
-* Food Truck Attribute Map: fill out data for known food trucks
-* Web App: preload data with known food trucks
+* Request Permission to use Location
+* Basic notification system + request permissions
+* Consistent CSS across device sizes
+* Name + SplashScreen
+* Fix Sorting reset
+* Refactor code to good coding practices
 
 ### AFTER PUBLISHING
 * Analytics
