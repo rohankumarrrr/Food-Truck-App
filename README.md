@@ -2,16 +2,12 @@
 
 ## Changes 
 
-### BEFORE PUBLISHING
+### TO-DO
 * Request Permission to use Location
-* Basic notification system + request permissions
 * Consistent CSS across device sizes
-* Name + SplashScreen
 * Fix Sorting reset
+* Name + SplashScreen
+* Unique Food Truck Markers
+* Menu Images
+* Basic notification system + request permissions
 * Refactor code to good coding practices
-
-### AFTER PUBLISHING
-* Analytics
-* Refactor Code (Remove unused code, organize, etc.)
-* Add more info to the "description" tab so it looks empty
-* Optimization (app is very laggy as of right now)
