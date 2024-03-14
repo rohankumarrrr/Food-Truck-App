@@ -1,5 +1,10 @@
 # Food-Truck-App
 
+## Procedure for adding new trucks
+* Add new key/value pair to foodTruckAttributeMap in FoodTruckAttributes.js
+* Add new key/value pair to truckToImageMap in ListScreen.js
+* Add new marker image (TODO)
+
 ## Changes 
 
 ### TO-DO
